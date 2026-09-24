@@ -2,8 +2,12 @@
 
 A modern, responsive, and interactive personal portfolio website built with React and Tailwind CSS.
 
+
+
+
 ## 🌐 Live Demo
-[Click here to view the live website](https://your-live-link.vercel.app) *(Update this link after deploying on Vercel/Netlify)*
+
+[Click here to view the live website](https://shailendra-dev.netlify.app)
 
 ## 🛠️ Tech Stack
 - **Frontend Framework:** React.js
